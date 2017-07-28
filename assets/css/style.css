@@ -1,0 +1,13 @@
+body{
+	font-family: ariel;
+	background: #FA8072;
+}
+
+.create-update-form {
+  background: #FFFFFF;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
