@@ -12,7 +12,7 @@ else {
     password: "United007&",
     database: "burgers_db"
   });
-}
+};
  
 
 // Make connection.
